@@ -1,1 +1,3 @@
-.misc/
+node_modules/
+
+eslint.*
